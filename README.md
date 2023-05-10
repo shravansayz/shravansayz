@@ -17,7 +17,16 @@
 </div>
 
 
-
+<p align="center">
+<a href="https://github.com/shravansayz">
+<img src="https://github-readme-stats-1-sable-seven.vercel.app/api?username=shravansayz&show_icons=true&theme=nightowl"/>
+<img src="https://streak-stats.demolab.com?user=shravansayz&theme=nightowl&count_private=true" />
+<img alt="shravansayz Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=shravansayz&theme=nightowl" />
+</a>
+</p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=shravansayz&color=0A0A0A" alt="shravansayz" />
+</p>
 
 
    
