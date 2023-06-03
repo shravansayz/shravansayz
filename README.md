@@ -9,7 +9,8 @@
 <h4>Learning to be a full stack</h4> 
 </div>
 
-<img src="https://raw.githubusercontent.com/shravansayz/readme-generator/master/generated/languages.svg"/>
+<p align="center">
+ <img src="https://raw.githubusercontent.com/shravansayz/readme-generator/master/generated/languages.svg"/>
  <img src="https://raw.githubusercontent.com/shravansayz/readme-generator/master/generated/overview.svg"/>
 </p>
 
